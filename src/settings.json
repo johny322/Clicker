@@ -1,0 +1,14 @@
+{
+  "shortcuts": [
+    {
+      "shortcut": "ctrl+alt+j",
+      "photo_path": "test.png"
+    },
+    {
+      "shortcut": "ctrl+alt+a",
+      "photo_path": "test2.png"
+    }
+  ],
+  "need_enter": true,
+  "sleep_time": 1
+}

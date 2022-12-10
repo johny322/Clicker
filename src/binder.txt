@@ -1,0 +1,2 @@
+pyinstaller --onefile --ico binder.ico --add-data "binder.ico;." --name binder main.py
+pyinstaller binder.spec
